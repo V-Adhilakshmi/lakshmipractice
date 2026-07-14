@@ -6,3 +6,6 @@ string user name;
 class student {
 string name;
 }
+class student1{
+string name;
+}
