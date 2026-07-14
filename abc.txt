@@ -3,3 +3,6 @@ string name;
 int id;
 string user name;
 }
+class student {
+string name;
+}
